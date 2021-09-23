@@ -18,7 +18,7 @@ body{
 a {
     text-decoration: none;
     font-size: 20px;
-    background: rgb(2, 2, 2);
+    box-shadow: 0 1px 5px 1px rgb(209, 223, 12);
     color: rgb(16, 214, 33);
     padding: 10px 30px;
     display: inline-block;
